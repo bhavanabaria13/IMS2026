@@ -1,0 +1,31 @@
+2.Internship Application Flow:
+---------------------------------
+
+-> Here One option if applicant selected Training Course than show this:
+applicant can login "intern panel" that open dashboard and show video, after submit training module open here course programming all topics and sub topics mentions, 
+ Applicants can show all topics and step by step learn(work) and perform tasks and submit tasks and cover all topics completed.
+when Applicants can submit a task then automatically check that topic from the course program topic list after all tasks are completed then all checkbox automatically checked and show “100%”progress .
+After 1 month is completed, if the applicant progresses 100%, then show "successfully completed course programming" and generate a certificate and download. Otherwise show message please complete your all task message show.if 100% complete then applicants get "successfully" completed course programming certificate if intern want for internship there mention terms and condition if align one demo project complete after  offer letter of internship download.
+
+
+
+
+Here Two option if applicant test exam and move internship programming than show this:
+After login, show test options, projects select any one,create a task and work on it. Submit this. If an intern wants for an internship there are terms and conditions if align one demo project complete after an offer “letter of internship” download.
+
+
+
+
+After the internship joins, the intern can  show the project module. In the project module, in the project module all project lists show, then the intern can select the running project, select and create tasks, and work. An intern can create their own new project and make tasks, start work, and submit tasks.
+
+-Here all interns' tasks are managed. When starting a task, complete the task with status, how many hours worked, all calculations, and manage also show the progress of interns' days' view and week's view.
+
+-after 1 month completed if interns progress 100% then show successfully complete internship and generate certificate and download. othervise show message please complete your all task message show.
+
+-if 1 month completed internship then he can apply to join DAO.
+
+-here an intern panel applicant /intern can create tasks,start-end tasks, submit tasks. with a particular task how many hrs work all stored and managed.
+
+-here an intern panel intern can create a project or select other running projects and create their own project related task ,work and complete task.with perticular task how many hrs work all stored and manage.
+
+-In intern panel all applicants /intern can progress show, with how many hrs work for particular task, completed task,running task, cancel task, all show and manage.

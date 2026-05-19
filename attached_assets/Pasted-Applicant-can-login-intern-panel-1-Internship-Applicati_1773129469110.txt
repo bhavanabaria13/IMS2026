@@ -1,0 +1,200 @@
+Applicant can login “intern panel” 
+1. Internship Application Flow
+When an applicant visits the platform, they should see two options:
+Option 1: Complete the Course Program first, then join the Internship
+Or
+Option 2: Pass the Entrance Test, then join the Internship
+
+2. Option 1 – Training Course Flow-selected
+If the applicant selects Training Course, the following workflow should happen:
+Step 1: Intern Panel Login
+Applicant logs into the Intern Panel Dashboard.
+Dashboard shows:
+Introduction video explaining the internship and training process
+Training course modules
+Progress tracking
+
+Step 2: Training Course Modules
+Display Programming Course Topics.
+Topics:6. Learning Modules & Weekly Breakdown: 
+Week 1 – Foundations (Web3 + React Basics + AI Basics) 
+Tasks: 
+● Development environment setup 
+○ Install Node.js, npm/yarn, VS Code, and (MetaMask, Trust Wallet, coinmask, TokenPocket, OKX Wallet, Coinbase Wallet). 
+● Deploy smart contract on Sepolia and remix IDE 
+○ HelloWorld contract 
+○ Counter contract 
+○ Simple Storage 
+○ Ownable pattern 
+○ Ether Transfer Smart Contract 
+○ Ethereum Account & Ownership Example 
+○ Student Registration Contract 
+○ Simple Voting Contract 
+○ Store & update internship task status 
+● Build a basic React application 
+○ Example: 
+■ Counter App 
+■ Input Form App 
+■ Todo List App 
+■ Simple API Fetch Example 
+■ Component Reuse Example 
+● AI concept documentation 
+Deliverables: 
+● Sepolia contract address 
+● React GitHub repository with examples 
+Week 2 – Tokens, NFTs & Backend Development 
+Tasks: 
+● Deploy ERC20,ERC721 token 
+○ Examples: 
+■ ERC20 Smart Contract(minimum 2) 
+● Intern Reward Token 
+● Task Completion Token 
+● Attendance Token 
+■ ERC721 Smart Contract (NFT)(minimum 2) 
+● Internship Certificate NFT 
+● Course Completion NFT 
+● Achievement Badge NFT 
+● Create NFT minting contract 
+● Build REST APIs 
+○ Node.js & Express Backend(minimum 2) 
+■ Intern Registration API 
+■ Task Submission API 
+■ Token Minting API 
+○ MongoDB Integration(minimum 2) 
+■ Intern Profile Database 
+■ Task Tracking Database 
+■ NFT Record Database 
+● Connect React frontend to backend 
+○ Example:(minimum 1) 
+■ Internship Reward DApp 
+■ NFT Certificate Issuer DApp 
+■ Intern Management Web3 App 
+Week 3 – DeFi, Security & Full-Stack Integration 
+Task: 
+● Develop a staking smart contract 
+● Integrate frontend, backend & blockchain 
+● Security issue analysis 
+● ML mini-experiment 
+Deliverables: 
+● Staking DApp 
+● Security report 
+Week 4 – Final Project & Deployment 
+Final Project Options 
+• NFT Marketplace 
+• DeFi Staking Platform 
+• Token Vesting System 
+• Mini Decentralized Exchange (DEX) 
+• DAO Governance Platform 
+
+Step 3: Task Submission System
+Interns can:
+Learn each topic
+Perform assigned tasks
+Submit tasks
+When a task is submitted:
+That topic should automatically be marked as completed
+Checkbox should become checked
+
+Step 4: Progress Tracking
+Show course progress percentage
+Example:
+Progress bar
+0% → 25% → 50% → 75% → 100%
+When all tasks are completed:
+All checkboxes become checked
+Progress becomes 100%
+
+Step 5: Course Completion Logic
+After 1 month duration, check the intern progress.
+If progress = 100%
+Show message:
+Successfully Completed Course Programming
+System should:
+Generate Training Completion Certificate
+Allow certificate download
+If progress < 100%
+Show message:
+Please complete all tasks to finish the course.
+
+Step 6: Internship Offer
+If the intern wants to continue to internship, show:
+Internship Terms and Conditions
+Requirement:
+Complete one demo project
+After demo project completion:
+System should generate:
+Internship Offer Letter Download
+
+3. Option 2 – Direct Test + Project Flow
+If the applicant selects Test Exam / Direct Internship Programming.
+After login:
+Show options:
+1️⃣ Take test→select
+2️⃣ Select project:any one
+Final Project Options 
+• NFT Marketplace 
+• DeFi Staking Platform 
+• Token Vesting System 
+• Mini Decentralized Exchange (DEX) 
+• DAO Governance Platform 
+Intern can:
+Select a project
+Create a task
+Work on the task
+Submit the task
+If the project is completed successfully:
+System should show Internship Terms & Conditions
+After agreement:
+Allow Internship Offer Letter Download
+
+4. Internship Project Module
+After joining an internship, interns access Project Module.
+The module should include:
+Project List
+Show all available projects.
+Intern can:
+Select running project
+Create tasks
+Work on tasks
+Submit tasks
+
+Intern Custom Project
+Interns should also be able to:
+Create a new project
+Add tasks
+Start working
+Submit tasks
+
+5. Task Management System
+Each task must track:
+Task title
+Task description
+Start time
+Completion status
+Hours worked
+Task progress
+Admin and Intern dashboards should show:
+Daily progress
+Weekly progress
+Total completed tasks
+Total working hours
+
+6. Internship Completion Logic
+After 1 month internship duration
+System checks progress.
+If progress = 100%
+Show:
+Successfully Completed Internship
+Generate:
+Internship Certificate
+Allow certificate download
+If progress < 100%
+Show message:
+Please complete all your assigned tasks.
+
+7. DAO Membership
+After completing 1 month internship successfully
+Intern can apply to:
+Join DAO (Decentralized Organization)
+Show option:
+Apply for DAO Membership

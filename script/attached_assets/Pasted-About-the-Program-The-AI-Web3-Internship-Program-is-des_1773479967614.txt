@@ -1,0 +1,122 @@
+About the Program
+
+The AI + Web3 Internship Program is designed for students and developers who want to build a career in blockchain technology and decentralized applications.
+
+This program combines structured learning, practical tasks, and real-world projects to help participants gain industry-ready skills.
+
+During the training program, participants learn essential technologies used in Web3 development including blockchain fundamentals, smart contracts, frontend frameworks, backend systems, and AI integrations.
+
+Training Program Topics
+Blockchain Fundamentals
+
+Learn how blockchain works and how decentralized networks operate.
+
+Topics include:
+
+Blockchain architecture
+
+Cryptography basics
+
+Ethereum ecosystem
+
+Smart contracts
+
+Wallets and transactions
+
+AI with Web3
+
+Understand how artificial intelligence can be integrated with decentralized technologies.
+
+Topics include:
+
+AI agents for Web3
+
+AI automation tools
+
+Smart contract analytics
+
+AI-driven blockchain applications
+
+React.js Development
+
+Build modern user interfaces for decentralized applications.
+
+Topics include:
+
+React fundamentals
+
+Components and hooks
+
+Web3 frontend integration
+
+Wallet connection
+
+dApp user interfaces
+
+Node.js Backend Development
+
+Develop backend systems for Web3 platforms.
+
+Topics include:
+
+Node.js fundamentals
+
+REST APIs
+
+Blockchain backend services
+
+Database integration
+
+Smart contract interaction
+
+Internship Selection Process
+
+There are two ways to join the internship program.
+
+Option 1 — Complete Training Program
+
+Participants who complete the entire training program and submit required tasks can directly join the internship.
+
+Option 2 — Pass the Technical Test
+
+Experienced applicants may attempt a technical test. Those who pass can join the internship without completing the full training program.
+
+Internship Work
+
+Selected interns will work on real projects including:
+
+Web3 decentralized applications
+
+Smart contract development
+
+Blockchain security analysis
+
+React frontend development
+
+Node.js backend APIs
+
+AI-powered Web3 tools
+
+Benefits of the Program
+
+Hands-on Web3 development experience
+
+Structured training modules
+
+Real project experience
+
+Internship certification
+
+Performance-based rewards
+
+Opportunity to work with blockchain professionals
+
+Who Can Apply?
+
+Students interested in Web3 and blockchain
+
+Developers who want to transition into Web3
+
+Beginners interested in AI and decentralized technology
+
+Anyone passionate about learning modern technologies
